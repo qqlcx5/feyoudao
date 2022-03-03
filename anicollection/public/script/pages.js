@@ -1,1 +1,0 @@
-!function(){$(".m-loading-icon").addClass("ng-hide")}();
